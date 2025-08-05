@@ -1,7 +1,3 @@
-Here is a comprehensive README.md tailored for your Task_2/Todo.py script, featuring detailed explanations, code insights, and credits.
-
----
-
 # TO-DO List CLI Application
 
 A simple yet effective command-line to-do list manager written in Python. This application lets you add, view, remove, and mark tasks as done, all through an intuitive console interface.
@@ -117,7 +113,3 @@ All your tasks will be saved in `TO-Do.json` in the same directory.
 Developed by Krishna S ([@Krishna-S-27](https://github.com/Krishna-S-27))  
 Second task of the Elevate Labs internship  
 For queries or feedback, feel free to reach out via GitHub!
-
----
-
-Enjoy your organized workflow!
